@@ -1,0 +1,169 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="CityULR.com" resolutions="1x" timestamp="1539939336629">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="339040084" ref="contribute:contact:iba:alumni:current:objective:about:index:guide:subscriptions:archive:join:submit:editorial"/>
+    <file name="contribute.css" crc="4119153748" ref="contribute"/>
+    <file name="iefonts_contribute.css" crc="110608564" ref="contribute"/>
+    <file name="contact.css" crc="475659358" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4109193014" ref="contact"/>
+    <file name="iba.css" crc="4130380507" ref="iba"/>
+    <file name="iefonts_iba.css" crc="4096455724" ref="iba"/>
+    <file name="alumni.css" crc="4047505012" ref="alumni"/>
+    <file name="iefonts_alumni.css" crc="494874378" ref="alumni"/>
+    <file name="current.css" crc="3772543882" ref="current"/>
+    <file name="iefonts_current.css" crc="295334001" ref="current"/>
+    <file name="objective.css" crc="4114300817" ref="objective"/>
+    <file name="iefonts_objective.css" crc="3894443115" ref="objective"/>
+    <file name="about.css" crc="4032175212" ref="about"/>
+    <file name="iefonts_about.css" crc="4105915084" ref="about"/>
+    <file name="index.css" crc="4242353928" ref="index"/>
+    <file name="iefonts_index.css" crc="20482484" ref="index"/>
+    <file name="guide.css" crc="4211787533" ref="guide"/>
+    <file name="iefonts_guide.css" crc="427692647" ref="guide"/>
+    <file name="subscriptions.css" crc="3913178826" ref="subscriptions"/>
+    <file name="iefonts_subscriptions.css" crc="4293886027" ref="subscriptions"/>
+    <file name="archive.css" crc="4111519881" ref="archive"/>
+    <file name="iefonts_archive.css" crc="4243136685" ref="archive"/>
+    <file name="join.css" crc="265878797" ref="join"/>
+    <file name="iefonts_join.css" crc="143711315" ref="join"/>
+    <file name="submit.css" crc="4190852065" ref="submit"/>
+    <file name="iefonts_submit.css" crc="3893739207" ref="submit"/>
+    <file name="editorial.css" crc="333160780" ref="editorial"/>
+    <file name="iefonts_editorial.css" crc="117642127" ref="editorial"/>
+  </folder>
+  <folder name="assets">
+    <file name="issue-01.pdf" crc="523405832" seo="true" mt="1523946418000"/>
+    <file name="oscola_4th_edn_hart_2012.pdf" crc="334955943" seo="true" mt="1535792166000"/>
+    <file name="issue-03.1.pdf" crc="485662579" seo="true" mt="1523946418000"/>
+    <file name="issue-03.2.pdf" crc="3949779310" seo="true" mt="1523946418000"/>
+    <file name="issue-02.1.pdf" crc="4237645811" seo="true" mt="1523946418000"/>
+    <file name="issue-02.2.pdf" crc="202546173" seo="true" mt="1523946418000"/>
+    <file name="submission-guidelines-2017-2018.pdf" crc="4086583646" seo="true" mt="1535792270000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive"/>
+    <file name="require.js" crc="4234670167" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive"/>
+  </folder>
+  <folder name="images">
+    <file name="cityu logo.jpg" crc="3841765299" seo="true" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive">
+      <caption webpage="join" alt=""/>
+      <caption webpage="archive" alt=""/>
+      <caption webpage="editorial" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="objective" alt=""/>
+      <caption webpage="submit" alt=""/>
+      <caption webpage="guide" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="current" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="iba" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="subscriptions" alt=""/>
+    </file>
+    <file name="law school logo.jpg" crc="3827874110" seo="true" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive">
+      <caption webpage="join" alt=""/>
+      <caption webpage="archive" alt=""/>
+      <caption webpage="editorial" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="objective" alt=""/>
+      <caption webpage="submit" alt=""/>
+      <caption webpage="guide" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="current" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="iba" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="subscriptions" alt=""/>
+    </file>
+    <file name="facebook.png" crc="3994944087" seo="true" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive">
+      <caption webpage="join" alt=""/>
+      <caption webpage="archive" alt=""/>
+      <caption webpage="editorial" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="objective" alt=""/>
+      <caption webpage="submit" alt=""/>
+      <caption webpage="guide" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="current" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="iba" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="subscriptions" alt=""/>
+    </file>
+    <file name="linkedin.png" crc="3813172375" seo="true" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive">
+      <caption webpage="join" alt=""/>
+      <caption webpage="archive" alt=""/>
+      <caption webpage="editorial" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="objective" alt=""/>
+      <caption webpage="submit" alt=""/>
+      <caption webpage="guide" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="current" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="iba" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="subscriptions" alt=""/>
+    </file>
+    <file name="twitter_logo_withbird_black.png" crc="193829262" seo="true" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive">
+      <caption webpage="join" alt=""/>
+      <caption webpage="archive" alt=""/>
+      <caption webpage="editorial" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="objective" alt=""/>
+      <caption webpage="submit" alt=""/>
+      <caption webpage="guide" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="current" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="iba" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="subscriptions" alt=""/>
+    </file>
+    <file name="1350.jpg" crc="298046365" ref="index:about:current:contact:submit:subscriptions:objective:iba:editorial:join:alumni:contribute:guide:archive">
+      <caption webpage="join" alt=""/>
+      <caption webpage="archive" alt=""/>
+      <caption webpage="editorial" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="objective" alt=""/>
+      <caption webpage="submit" alt=""/>
+      <caption webpage="guide" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="current" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="iba" alt=""/>
+      <caption webpage="contribute" alt=""/>
+      <caption webpage="subscriptions" alt=""/>
+    </file>
+    <file name="audrey ng general editor pic for testimonial.jpg" crc="25278672" seo="true" ref="alumni">
+      <caption webpage="alumni" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="485685306" seo="true" mt="1539939100702" redirect="true"/>
+  <file name="about.html" crc="4123508741" seo="true" mt="1539936739640" redirect="true"/>
+  <file name="current.html" crc="4275596089" seo="true" mt="1539936739640" redirect="true"/>
+  <file name="contact.html" crc="4044975649" seo="true" mt="1539939209972" redirect="true"/>
+  <file name="submit.html" crc="9829498" seo="true" mt="1539937328524" redirect="true"/>
+  <file name="subscriptions.html" crc="509948625" seo="true" mt="1539936739640" redirect="true"/>
+  <file name="objective.html" crc="43589201" seo="true" mt="1539936739640" redirect="true"/>
+  <file name="iba.html" crc="3827319993" seo="true" mt="1539936739640" redirect="true"/>
+  <file name="editorial.html" crc="3858679905" seo="true" mt="1539936739640" redirect="true"/>
+  <file name="join.html" crc="4189739126" seo="true" mt="1539939127687" redirect="true"/>
+  <file name="alumni.html" crc="4156308287" seo="true" mt="1539936739640" redirect="true"/>
+  <file name="contribute.html" crc="4096411166" seo="true" mt="1539938772024" redirect="true"/>
+  <file name="guide.html" crc="222942069" seo="true" mt="1539936739640" redirect="true"/>
+  <file name="archive.html" crc="190195140" seo="true" mt="1539936739640" redirect="true"/>
+</manifest>
